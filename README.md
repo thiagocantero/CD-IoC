@@ -4,6 +4,6 @@
 
 **Conceitos: Inversão de Controle e Injeção de Dependência.**
 
-*Neste artigo é demonstrado como o Padrão Builder pode ser implementado, de maneira bem prática.*
+*Neste artigo é demonstrado conceitos importantes da Arquitetura de Software.*
 
 Mais em https://thiagocantero.com.br/2022/09/12/conceitos-inversao-de-controle-e-injecao-de-dependencia/
